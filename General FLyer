@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <header>
+    <!-- image ga logo -->
+    <img class="ga-logo" src="https://res.cloudinary.com/dr5iclm3d/image/upload/v1548206606/logo.png" alt="GA Logo">  
+  </header>
+  <body class="background">
+    <!-- ga-title -->
+    <h1 class= "ga-title">General Assembly Offers Classes and Workshops Worldwide</h1>
+    <!-- ga-second -->
+    <h2 class= "ga-second">For Immediate Release:</h2>
+    <!-- ga-third -->
+    <h3 class= "ga-third">General Assembly, which started in New York as a startup incubator, now offers classes and workshops in technology, design, and entrepreneurship, with campuses around the world in:</h3>
+    <!-- ga-fourth -->
+    <h4 class="ga-fourth">
+    <!-- line-1 -->
+      <p class="line-1">Atlanta, Austin, Boston, Chicago, Hong Kong, London, Los Angeles, Melbourne, New York City, San Francisco, Seattle, Singapore, Sudney, Washington D.C</p>
+      <p class="line-website">For more information, visit <b>General Assembly's </b> <a href="https://generalassemb.ly"> website! </a> </p>
+    </h4>  
+  </body>   
+</html>
