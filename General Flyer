@@ -19,3 +19,48 @@
     </h4>  
   </body>   
 </html>
+
+
+.ga-logo {
+  height:140px;
+  margin-left:50px;
+  padding:5px;
+}
+  
+.ga-title {
+  font-size:50px;
+  margin-left:50px;
+  font-family:Roboto;
+}
+ 
+.ga-second {
+  font-size:40px;
+  font-family:Roboto;
+  margin-left:50px;
+  color:rgb(226,28,35)
+}
+ 
+.ga-third {
+  font-size:20px;
+  margin-left:50px;
+  font-family:Roboto
+}
+
+.ga-fourth {
+  font-size:18px;
+  margin-left:50px;
+  font-family:Oswald
+}
+
+.line-1 {
+  color:rgb(226,28,35)
+}
+
+.line-website {
+  font-size:18px;
+  font-family:Roboto
+}
+
+.background {
+  background-color:lightgrey;
+}
